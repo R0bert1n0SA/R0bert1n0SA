@@ -19,7 +19,7 @@
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rospar&langs_count=10&theme=dark&layout=compact" alt="rospar :: Top Lenguajes" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bert1n0SA&langs_count=10&theme=dark&layout=compact" alt="R0bert1n0SA :: Top Lenguajes" /></p>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=rospar&show_icons=true&theme=dark" alt="rospar :: Profile Stats" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=R0bert1n0SA&show_icons=true&theme=dark" alt="R0bert1n0SA :: Profile Stats" /></p>
  </div>
