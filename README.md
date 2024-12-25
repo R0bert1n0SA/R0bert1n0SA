@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola 👋</h1>
 <p align="center">  
-    <img align="center" src="https://ar.pinterest.com/pin/470766967316189051/"/>
+    <img align="center" src="https://imgs.search.brave.com/ZJXg9fBcRg1GYMZFIsSx4S8seWzbdQyTEZ9yGMFg75o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL0xuRVND/dk5JbUlQUnUvc291/cmNlLmdpZg.gif"/>
 </p>
 <h4 align="center">Soy Spinelli Arcuri Robertino, estudiante de "Licenciatura en Informatica" y "ATIC" en la UNLP.Aficionado del Black Metal,Layne Staley,Cobain y el emo trap.</h4>
 
