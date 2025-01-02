@@ -15,7 +15,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a3808844-b4f7-4cb3-9ca8-00c8449c4cdb" alt="C++" width="40" height="40"/> </a> 
+     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/8c326ac8-d8a2-4289-9cf9-a78f6f0dbff5)
+" alt="C++" width="40" height="40"/> </a> 
+    
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg" alt="ASM" width="40" height="40"/> </a> 
 </p>
 
 <h2 align="center">Github Stats :bar_chart:</h2>
