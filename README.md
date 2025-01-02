@@ -13,6 +13,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
      <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="C++" width="40" height="40"/> </a> 
     <a href="https://www.ibm.com/docs/es/aix/7.3?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg" alt="ASM" width="40" height="40"/> </a> 
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="Bash" width="40" height="40"/> </a> 
 </p>
 
 <h2 align="center">Github Stats :bar_chart:</h2>
