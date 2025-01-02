@@ -16,8 +16,7 @@
     <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
     <a href="https://www.w3schools.com/c++" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a3808844-b4f7-4cb3-9ca8-00c8449c4cdb
-" alt="c++" width="40" height="40"/> </a>       
-    <a href="https://www.ibm.com/docs/es/aix/7.3?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/General_Assembly_logo.svg" alt="asm" width="40" height="40"/> </a>    
+" alt="c++" width="40" height="40"/> </a>         
 </p>
 
 <h2 align="center">Github Stats :bar_chart:</h2>
