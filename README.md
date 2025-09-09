@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! soy spinelli robertino👋</h1>
 <p align="center">  
-    <img align="center" src="https://imgs.search.brave.com/ZJXg9fBcRg1GYMZFIsSx4S8seWzbdQyTEZ9yGMFg75o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL0xuRVND/dk5JbUlQUnUvc291/cmNlLmdpZg.gif"/>
+    <img align="center" src="https://www.publicdomainpictures.net/pictures/560000/nahled/binary-black-and-green-code-1703700453a8o.jpg"/>
 </p>
 <h4 align="center">Estudiante de **Licenciatura en Informatica** y **ATIC** en la UNLP.Apasionado por **Networking administración de sistemas y COBOL**
 Actualmente estoy aprendiendo sobre ldap y servidores Linux.
