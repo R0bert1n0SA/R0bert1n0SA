@@ -33,15 +33,7 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-#### Lenguajes de Programación
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8A19?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/COBOL-Mainframe-blue?style=flat-square" alt="COBOL" />
-  <img src="https://img.shields.io/badge/Assembler-x86-red?style=flat-square" alt="ASM" />
-</p>
+
 
 ---
 
