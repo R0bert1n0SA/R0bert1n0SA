@@ -20,7 +20,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="center">  
-    <img align="center" src="https://imgs.search.brave.com/I7X79hERoHYVyMOSgSrix9BE8VZ49K-AmMFNkfMYIxk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY29k/ZXMtb2Yta2FsaS1s/aW51eC10eWJ1c2Z5/MzRsZG1iMzRyLmpw/Zw.jpg"/>
+    <img align="center" src="https://imgs.search.brave.com/3ba0ZTuE8ArOM38buylMgEAG59vdhfErFdEoaF7O08c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JlYXRlLnZpc3Rh/LmNvbS9hcGkvbWVk/aWEvc21hbGwvMjY0/MDgwNzAyL3N0b2Nr/LXBob3RvLWhhY2tl/ci1pbi1kYXRhLXNl/Y3VyaXR5LWNvbmNl/cHQtaGFja2VyLXVz/aW5nLWxhcHRvcC1o/YWNraW5nLXRoZS1p/bnRlcm5ldC1jeWJl/ci1hdHRhY2s"/>
 </p>
 
 
