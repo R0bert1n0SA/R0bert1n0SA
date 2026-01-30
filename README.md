@@ -19,9 +19,9 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-
-
-[Image of OSI model layers]
+<p align="center">  
+    <img align="center" src="https://imgs.search.brave.com/I7X79hERoHYVyMOSgSrix9BE8VZ49K-AmMFNkfMYIxk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvY29k/ZXMtb2Yta2FsaS1s/aW51eC10eWJ1c2Z5/MzRsZG1iMzRyLmpw/Zw.jpg"/>
+</p>
 
 
 #### Infraestructura y Sistemas
