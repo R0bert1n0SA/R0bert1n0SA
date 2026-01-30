@@ -1,26 +1,59 @@
-<h1 align="center">¡Hola! soy spinelli robertino👋</h1>
-<p align="center">  
-    <img align="center" src="https://www.publicdomainpictures.net/pictures/560000/nahled/binary-black-and-green-code-1703700453a8o.jpg"/>
-</p>
-<h4 align="center">Estudiante de **Licenciatura en Informatica** y **ATIC** en la UNLP.Apasionado por **Networking administración de sistemas y COBOL**
-Actualmente estoy aprendiendo sobre ldap y servidores Linux.
-.</h4>
+<h1 align="center">¡Hola! Soy Robertino Spinelli 👋</h1>
 
--📫 Informacion de contacto **robertinospinelliarcuri@gmail.com**
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/c" target="_blank" rel="noreferrer"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
-     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="C++" width="40" height="40"/> </a> 
-    <a href="https://www.ibm.com/docs/es/aix/7.3?topic=aix-assembler-language-reference" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/assemblyscript.svg" alt="ASM" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="Bash" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Networking%20%26%20SysAdmin-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Education-UNLP%20(Lic.%20Informatica%20%2F%20ATIC)-red?style=for-the-badge" />
 </p>
 
-<h2 align="center">Github Stats :bar_chart:</h2>
+<p align="center">
+  <strong>Estudiante apasionado por la infraestructura, el bajo nivel y la gestión de servicios críticos.</strong><br>
+  Actualmente profundizando en el despliegue de <b>Servidores Linux</b> y servicios de directorio con <b>LDAP</b>.
+</p>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bert1n0SA" alt="R0bert1n0SA :: Top Lenguajes" /></p>
+---
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=R0bert1n0SA&show_icons=true&theme=dark" alt="R0bert1n0SA :: Profile Stats" /></p>
- </div>
+### 🌐 Áreas de Interés & Especialización
+- **Networking:** Configuración de redes, protocolos (TCP/IP), y seguridad perimetral.
+- **SysAdmin:** Administración de servidores Linux (Debian/Ubuntu/RHEL), automatización con Bash y gestión de servicios.
+- **Mainframe & Low Level:** Programación en COBOL y Assembler, entendiendo la base del cómputo empresarial.
+
+### 🛠️ Tecnologías y Herramientas
+
+
+
+[Image of OSI model layers]
+
+
+#### Infraestructura y Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/LDAP-OpenLDAP-blue?style=flat-square" alt="LDAP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+#### Lenguajes de Programación
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8A19?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/COBOL-Mainframe-blue?style=flat-square" alt="COBOL" />
+  <img src="https://img.shields.io/badge/Assembler-x86-red?style=flat-square" alt="ASM" />
+</p>
+
+---
+
+### 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bert1n0SA&layout=compact&theme=vision-friendly-dark" alt="Top Lenguajes" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=R0bert1n0SA&show_icons=true&theme=vision-friendly-dark" alt="Profile Stats" />
+</div>
+
+---
+
+### 📫 Contacto
+- **Email:** [robertinospinelliarcuri@gmail.com](mailto:robertinospinelliarcuri@gmail.com)
+- **LinkedIn:** [Tu-Link-Aqui] (¡Te recomiendo agregarlo!)
