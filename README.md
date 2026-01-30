@@ -36,12 +36,7 @@
 
 ---
 
-### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bert1n0SA&layout=compact&theme=vision-friendly-dark" alt="Top Lenguajes" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=R0bert1n0SA&show_icons=true&theme=vision-friendly-dark" alt="Profile Stats" />
-</div>
+
 
 ---
 
